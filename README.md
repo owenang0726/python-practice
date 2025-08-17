@@ -1,2 +1,1 @@
-# python-practice
-
+Practice with Python using FCC and experimenting.
