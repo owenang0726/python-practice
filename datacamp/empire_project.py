@@ -1,6 +1,6 @@
 # import numpy, matplotlib, and set seed
-import numpy as np
-import matplotlib.pyplot as plt
+import numpy as np # type: ignore
+import matplotlib.pyplot as plt # type: ignore
 np.random.seed(123)
 # clear the plot
 plt.clf()
